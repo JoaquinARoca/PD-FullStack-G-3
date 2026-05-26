@@ -5,7 +5,7 @@ Monorepo que integra los componentes principales del proyecto de drones.
 ## Estructura
 
 - **PDBackend_G-3** - API backend para gestión de drones
-- **Frontend/V4** - Interfaz web para control de drones
+- **PDFrontend_G3** - Interfaz web para control de drones
 
 ## Clonar con submódulos
 

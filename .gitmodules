@@ -4,3 +4,6 @@
 [submodule "V4"]
 	path = V4
 	url = https://github.com/aleixlopezhervas/V4.git
+[submodule "PDFrontend_G3"]
+	path = PDFrontend_G3
+	url = https://github.com/aleixlopezhervas/PDFrontend_G3.git
