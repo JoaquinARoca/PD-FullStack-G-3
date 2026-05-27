@@ -2,6 +2,11 @@
 
 Monorepo que integra los componentes principales del proyecto de drones.
 
+## Realización
+- Joaquín Roca
+- Aleix López 
+- Elies Maldonado 
+
 ## Estructura
 
 - **PDBackend_G-3** - API backend para gestión de drones
